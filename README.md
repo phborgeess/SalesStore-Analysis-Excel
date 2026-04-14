@@ -12,3 +12,10 @@ This project focuses on analyzing sales data to identify trends in profitability
 ## Technical Stack
 - **Tool:** Microsoft Excel (Binary format .xlsb for performance)
 - **Features:** Power Pivot, Pivot Tables, Pivot Charts, Data Validation, and Conditional Formatting.
+
+## Images from the data
+![Raw Data](https://github.com/phborgeess/SalesStore-Analysis-Excel/blob/main/Raw_Data.png)
+![Cleaned Data](https://github.com/phborgeess/SalesStore-Analysis-Excel/blob/main/Cleaned_Data.png)
+![Model Dimensions](https://github.com/phborgeess/SalesStore-Analysis-Excel/blob/main/Model_Dimensions.png)
+![Profitability Category](https://github.com/phborgeess/SalesStore-Analysis-Excel/blob/main/Profitability_Category.png)
+![Top 10 customers by sales](https://github.com/phborgeess/SalesStore-Analysis-Excel/blob/main/Top10_Customers_Sales.png)
